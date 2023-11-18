@@ -61,13 +61,16 @@
 >- 《Flink基础教程》
 
 ## AI
-
+> ### 人工智能
+>- 《AIMA Artificial Intelligence A Modern Approach》
 > ### 机器学习
+>- 《机器学习》(周志华)
+>- 白板推导系列 shuhuai008
+>- 《统计学习方法》
+>- 《Approaching (Almost) Any Machine Learning Problem》
+>### 深度学习
 >- 深度学习 吴恩达
 >- 动手深度学习 李沐
->- 白板推导系列 shuhuai008
->- 《机器学习》(周志华)
->- 《统计学习方法》
 >- 《深度学习》(Lan GoodFellow, Yoshua Bengio, Aaron Courville)
 >### 自然语言处理
 >- 《数学之美》
